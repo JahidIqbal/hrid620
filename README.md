@@ -1,5 +1,5 @@
 # Hi there 👋
-# # # # # # Hi there 👋
+###### Hi there 👋
 
 **hrid620/hrid620** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
