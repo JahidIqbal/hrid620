@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [https://dev.to/hrid620/crud-operation-is-easy-peasy-if-you-read-this-o2p](https://dev.to/hrid620/crud-operation-is-easy-peasy-if-you-read-this-o2p)
 
-- 💬 Ask me about **REACTJS,HTML5,CSS,JAVASCRIPT**
+- 💬 Ask me about **REACTJS,HTML5,CSS3,JAVASCRIPT**
 
 - 📫 How to reach me **jahid.iqbal211@gmail.com**
 
