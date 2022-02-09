@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://my-personal-portfolio-for-information.netlify.app/](https://my-personal-portfolio-for-information.netlify.app/)
 
-- 📝 I regularly write articles on [https://dev.to/hrid620/crud-operation-is-easy-peasy-if-you-read-this-o2p](https://dev.to/hrid620/crud-operation-is-easy-peasy-if-you-read-this-o2p)
+- 📝 I regularly write articles on [https://dev.to/dashboard](https://dev.to/dashboard)
 
 - 💬 Ask me about **REACTJS,HTML5,CSS3,JAVASCRIPT**
 
